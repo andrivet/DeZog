@@ -1,11 +1,11 @@
 {
-	"name": "dezog",
-	"displayName": "DeZog",
-	"version": "3.4.0-rc1",
-	"publisher": "maziac",
-	"description": "Visual Studio Code Debugger for the Z80 and ZX Spectrum.",
+	"name": "dezog-zx81",
+	"displayName": "DeZog with ZX81",
+	"version": "3.4.0-rc1-zx81",
+	"publisher": "andrivet",
+	"description": "Visual Studio Code Debugger for the Z80, ZX81 and ZX Spectrum.",
 	"author": {
-		"name": "Thomas Busse"
+		"name": "Sebastien Andrivet"
 	},
 	"license": "MIT",
 	"keywords": [
@@ -26,7 +26,7 @@
 	"private": true,
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/maziac/DeZog"
+		"url": "https://github.com/andrivet/DeZog"
 	},
 	"sponsor": {
 		"url": "https://github.com/sponsors/maziac"
@@ -75,7 +75,7 @@
 		"typescript": "^4.8.4"
 	},
 	"bugs": {
-		"url": "https://github.com/maziac/DeZog/issues"
+		"url": "https://github.com/andrivet/DeZog/issues"
 	},
 	"main": "./out/extension.js",
 	"activationEvents": [
